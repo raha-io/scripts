@@ -6,7 +6,6 @@
             "description": "Backend developers",
             "privacy": "closed",
             "members": [
-                { "username": "mahdisaj", "role": "maintainer" },
                 { "username": "alirezaqnti", "role": "member" },
                 { "username": "NimaNaghibi143", "role": "member" }
             ],
@@ -22,7 +21,7 @@
             "name": "frontend",
             "description": "Frontend developers",
             "privacy": "closed",
-            "members": [{ "username": "majidAbt98", "role": "maintainer" }],
+            "members": [{}],
             "repositories": [
                 { "name": "b2b-frontend", "permission": "push" },
                 { "name": "pathwise", "permission": "push" }
@@ -32,10 +31,7 @@
             "name": "ai",
             "description": "AI/ML developers",
             "privacy": "closed",
-            "members": [
-                { "username": "fatemenajafi135", "role": "maintainer" },
-                { "username": "Homanloo", "role": "member" }
-            ],
+            "members": [],
             "repositories": [
                 { "name": "b2b-matchmaking", "permission": "push" },
                 { "name": "yface-ai", "permission": "push" },
@@ -51,7 +47,8 @@
             "privacy": "closed",
             "members": [
                 { "username": "1995parham", "role": "maintainer" },
-                { "username": "taghad", "role": "maintainer" }
+                { "username": "alirezaqnti", "role": "member" },
+                { "username": "NimaNaghibi143", "role": "member" }
             ],
             "repositories": []
         }
